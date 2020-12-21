@@ -1,11 +1,7 @@
-# Oi, um prazer receber você aqui <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Seja bem vindo!
 
-### Seja bem vindo!
-<p>
-  Meu nome é Paulo Otavio, e sou desenvolvedor Fullstack!
-</p>
-
-<br/>
+### Meu nome é Paulo Otavio, e sou desenvolvedor Fullstack!
+<p> </p>
 
 ## Conhecimentos
 
