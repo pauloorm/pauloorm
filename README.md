@@ -1,4 +1,4 @@
-# Seja bem vindo!
+# Bem vindo!
 
 ### Meu nome é Paulo Otavio, e sou desenvolvedor Fullstack!
 <p> </p>
